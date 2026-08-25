@@ -1,4 +1,4 @@
-# Jobly AI API
+# Jobly AI API 🕸️
 
 <p align="center">
   <strong>Backend REST para análisis de CV, extracción de habilidades y recomendación de vacantes de Jobly.</strong>
